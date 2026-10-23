@@ -1,5 +1,9 @@
 Project Advanced Programming 2023-2024
 =======================================
+**Note:** This is a re-upload of a project originally developed in the
+AP-Lab-Sessions organization in 2024. The original repository couldn't be made
+public due to organization settings, so the code is republished here without
+the original commit history.
 
 Name: Yassir Chebaa Amimou  
 Student number: 20173674  
