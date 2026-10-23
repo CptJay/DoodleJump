@@ -7,7 +7,6 @@ the original commit history.
 
 Name: Yassir Chebaa Amimou  
 Student number: 20173674  
-Report: [2025_DoodleJump](2025_DoodleJumpReport.pdf)
 
 
 # Features
